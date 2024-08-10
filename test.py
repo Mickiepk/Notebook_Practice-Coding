@@ -3,4 +3,4 @@ def print_christmas_tree(height):
         print(" " * (height - i - 1) + "*" * (2 * i + 1))
 
 # Example usage:
-print_christmas_tree(10)
+print_christmas_tree(5)
